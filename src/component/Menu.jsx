@@ -12,7 +12,7 @@ function Menu() {
             <div className="collapse navbar-collapse" id="menu">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <NavLink to={`/ex1`} className="nav-link"Ex1></NavLink>
+                        <NavLink to={`/ex1`} className="nav-link">Ex1</NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to={`/ex2`} className="nav-link">Ex2</NavLink>
